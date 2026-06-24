@@ -12,11 +12,6 @@
  
   <br/>
     
-<br/>
-    
- 
-    
-<img src="https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif" alt="Thankyou" width="425">
 
 <!--
 **chandan-chaudhary/chandan-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
